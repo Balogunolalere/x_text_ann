@@ -1,0 +1,4 @@
+fastapi
+clip-client 
+docarray 
+annlite
